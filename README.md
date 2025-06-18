@@ -1,4 +1,4 @@
-# htWES
+# htWES (chatgpt)
 htWES is a programing language simular to html.
 To use htWES, install the htWES.py script, make a htWES file (call it whatever), write code (or use the example), run htWES.py (python htWES.py)
 # How to use htWES
